@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Michelle Stuhlmacher"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor at DePaul University"
   location         : "Chicago, IL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Zpr3mywAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Michelle-Stuhlmacher"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2730-7091"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
