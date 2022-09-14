@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/MichelleStuhlmacher-CV-faculty.pdf " type="application/pdf" width="100%"> 
-</object>
+[MichelleStuhlmacher-CV-faculty.pdf](https://github.com/MStuhlmacher/mstuhlmacher.github.io/files/9569225/MichelleStuhlmacher-CV-faculty.pdf)
