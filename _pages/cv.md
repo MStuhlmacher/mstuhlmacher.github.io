@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!---  {% include base_path %} --->
 
 <embed src="/assets/files/MichelleStuhlmacher-CV-faculty.pdf" width="1000px" height="2100px" />
 
