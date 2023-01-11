@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://drive.google.com/file/d/15QnD3WP_H-v4jMJdU2zaMcOMD9qvl07w/view?usp=sharing" width="500" height="375">
+<embed src="/assets/files/MichelleStuhlmacher-CV-faculty.pdf" width="1000px" height="2100px" />
+
