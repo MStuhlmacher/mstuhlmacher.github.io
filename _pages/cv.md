@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[MichelleStuhlmacher-CV-faculty.pdf](https://github.com/MStuhlmacher/mstuhlmacher.github.io/files/9569225/MichelleStuhlmacher-CV-faculty.pdf)
+<embed src="https://drive.google.com/file/d/15QnD3WP_H-v4jMJdU2zaMcOMD9qvl07w/view?usp=sharing" width="500" height="375">
