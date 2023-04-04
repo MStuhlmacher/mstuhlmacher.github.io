@@ -7,7 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<!---  {% include base_path %} --->
-
-<object data="/assets/files/MichelleStuhlmacher-CV-faculty.pdf" width="1000" height="1000" type = 'application/pdf'> </object>
-
+<embed src="/assets/files/MichelleStuhlmacher-CV-faculty.pdf" width="600" height="700" type='application/pdf'>
