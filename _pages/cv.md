@@ -9,5 +9,5 @@ redirect_from:
 
 <!---  {% include base_path %} --->
 
-<embed src="/assets/files/MichelleStuhlmacher-CV-faculty.pdf" width="1000px" height="2100px" />
+<object data="/assets/files/MichelleStuhlmacher-CV-faculty.pdf" width="1000" height="1000" type = 'application/pdf'> </object>
 
