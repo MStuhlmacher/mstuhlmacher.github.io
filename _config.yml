@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michelle Stuhlmacher, Ph.D."
+title                    : "Dr. Michelle Stuhlmacher"
 title_separator          : "-"
 name                     : &name "Michelle Stuhlmacher"
 description              : &description "Assistant Professor at DePaul University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michelle Stuhlmacher, Ph.D."
+  name             : "Dr. Michelle Stuhlmacher"
   avatar           : "Final_Square.jpeg"
   bio              : "Assistant Professor at DePaul University"
   location         : "Chicago, IL"
