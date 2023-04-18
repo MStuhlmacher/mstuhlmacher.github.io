@@ -1,10 +1,8 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /research/
+title: "Ongoing Projects"
 author_profile: true
 ---
-# Ongoing Projects
-
 ## Global Urban Structure 
 This research project employs satellite imagery and other spatial data sources to examine the distribution of built and green spaces in cities. We explored the change in the urban built footprint of 150 cities in the United States, India, and China between 1995-2015 and found that as cities grow, they often increase in complexity and compactness contributing to stronger daytime surface urban heat island intensities.1 This research also evaluated whether the global cities in our analysis show similar growth patterns (i.e., homogenization) which could correspond with similar urban heat island consequences as cities grow.
 
