@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /projects/
 title: "Ongoing Projects"
 author_profile: true
 ---
