@@ -1,6 +1,6 @@
 ---
 title: "Team"
-permalink: /Team/
+permalink: /team/
 author_profile: true
 ---
 Research, teaching, and learning happens through collaboration large and small. I love bringing my research into my teaching and my students into my research.
