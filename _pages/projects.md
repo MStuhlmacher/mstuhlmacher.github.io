@@ -9,10 +9,12 @@ This project quantitatively examines local socio-ecological impacts of green spa
 ### Articles:
 1.	Stuhlmacher, M., Kim, Y. and Kim, J.E. (2022) “The Role of Green Space in Chicago’s Gentrification.” Urban Forestry & Urban Greening 71. [https://doi.org/10.1016/j.ufug.2022.127569](https://doi.org/10.1016/j.ufug.2022.127569).
 
-## Community-Engaged Environmental Justice   & Data Access
-An important facet of my local green space research is working with the local community to guide research design and ensure access to data and research results. Current collaborations include green gentrification research in Pilsen. Collaboration with community members in Pilsen began in 2021 when [Dr. Winifred Curran](https://las.depaul.edu/academics/geography/faculty/Pages/winifred-curran.aspx) and I received internal funding to collect data on formal and informal green space in Pilsen. In addition to collecting and collating the data through a community engaged service-learning course, we held a workshop where community members discussed the type of green space they utilize in their neighborhood and future types of greening they are interested in.<sup>1</sup> 
+## Community-Engaged Environmental Justice & Data Access
+An important facet of my green space research is working with local communities to guide research design and ensure access to data and research results. 
 
-In 2022, we received funding from NASA to continue this collaboration in Pilsen.<sup>2</sup> With this funding we will make social and environmental data available in an interactive, open-source dashboard ([ChiVes](https://chichives.com/)). The goal of the project is to make the data easier for the alderman and community members to access and use for green space decision making in Pilsen.<sup>3</sup>
+Current collaborations include green gentrification research in Pilsen, a collaboration that began in 2021 when [Dr. Winifred Curran](https://las.depaul.edu/academics/geography/faculty/Pages/winifred-curran.aspx) and I received internal funding to integrate data collection on formal and informal green space into my service-learning GIS course. In the spring, we held a workshop where we shared the results of the student work and the community led a conversation on the types of green space they utilize in their neighborhood and future types of greening they are interested in.<sup>1</sup> 
+
+In 2022, we received a grant from NASA to continue this collaboration in Pilsen.<sup>2</sup> With this funding we will make social and environmental data available in an interactive, open-source dashboard ([ChiVes](https://chichives.com/)). The goal of the project is to make the data easier for the alderman and community members to access and use for green space decision making in Pilsen.<sup>3</sup>
 
 ### Articles:
 1. Curran, W., Stuhlmacher, M., and Anderson, E. (In Press). “Getting to Just Green Enough in Pilsen, Chicago”. LA+ BEAUTY.
