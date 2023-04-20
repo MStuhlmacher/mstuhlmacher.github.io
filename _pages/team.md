@@ -25,4 +25,4 @@ The SURG program is student-driven where the student proposes the research topic
 #### 2. Undergraduate Research Assistant Program (URAP)
 The URAP programs provides funding for faculty to hire undergraduate students to collaborate with faculty on their research projects. There are two cycles every academic year, summer/fall and winter/spring. [Learn more here.](https://las.depaul.edu/faculty-and-staff/faculty-grants-fellowships/Pages/grant-programs.aspx) 
 #### 3. Grant-based research assistant positions
-I also hire students to contribute to research grant projects. These positions vary, but are always posted on the GEO listserv. Keep an eye out there. 
+I also hire students to contribute to research projects funded by research grants. These positions vary, but are always posted on the GEO listserv. Keep an eye out there.
