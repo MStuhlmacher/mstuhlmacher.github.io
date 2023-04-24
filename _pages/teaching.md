@@ -13,7 +13,7 @@ Supported by the [Steans Center](https://resources.depaul.edu/steans-center-comm
 * *“Checking in with our organization representative and continuously shaping the product to their needs gave the experience and understanding I was hoping to gain”* (GEO 242 student, WQ 21).
 
 ### Past Partnerships
-Below are our partnerships and resulting reports to date. GEO 242 is the undergraduate level version of the course and GEO 442 is the graduate level. Are you a Chicago-based community organization with a GIS project or question you’d like an answer to? We’re always looking for projects, so please email me or the Steans Center!
+Below are our partnerships and resulting reports to date. GEO 242 is the undergraduate level version of the course and GEO 442 is the graduate level. Are you a Chicago-based community organization with a GIS project or question you’d like an answer to? We’re always looking for projects, so please email me or the Steans Center.
 
 | Class, Term            | Community Partner                  | Report   | Report Authors  |
 |:-----------------------|:-----------------------------------|:---------|:----------------|
