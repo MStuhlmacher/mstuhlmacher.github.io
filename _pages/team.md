@@ -17,7 +17,7 @@ Research, teaching, and learning happens through collaboration large and small. 
 | Josephine Stratman     | 2021        | LAS Undergraduate Research Assistant Program (URAP)   |
 
 ## Looking for research experience?
-If you’re a current student at DePaul University interested in getting involved in research, please reach out! I generally ask that research assistants have completed GEO 343/443 (Earth Observation II), but relevant coursework varies by research topic. Below are some of the ways students can get paid or earn course credit for getting involved in research on campus.
+If you’re a current student at DePaul University interested in getting involved in research, please reach out. I generally ask that research assistants have completed GEO 343/443 (Earth Observation II), but relevant coursework varies by research topic. Below are some of the ways students can get paid or earn course credit for getting involved in research on campus.
 ### Funding sources for student research at DePaul:
 #### 1. Summer Undergraduate Research Grant (SURG)
 The SURG program is student-driven where the student proposes the research topic and partners with a faculty member to complete the research project over the summer. [Learn more here.](https://las.depaul.edu/student-resources/undergraduate-research/Pages/grant-programs.aspx) 
