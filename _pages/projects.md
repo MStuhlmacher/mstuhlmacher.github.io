@@ -22,8 +22,8 @@ In 2022, we received a grant from NASA to continue this collaboration in Pilsen.
 2. NASA Equity and Environmental Justice, National Aeronautics and Space Administration: Earth Science Applications. PI: Michelle Stuhlmacher, co-Is: Winifred Curran and Marynia Kolak. Grant Number: 80NSSC22K1676, Title: "Designing for Just Green Enough: A Data Integration Tool for Informing Community Green Space Planning", Award: $250,000.
 
 ### Media Coverage:
-3. "DePaul Researchers Creating Chicago Neighborhood Database of Environmental Disparities", Newsline, Sep 16. [https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/nasa-grant-2022.aspx](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/nasa-grant-2022.aspx 
-)
+3. "DePaul Researchers Creating Chicago Neighborhood Database of Environmental Disparities", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/nasa-grant-2022.aspx), Sep 16, 2022.
+4. "Research team seeks to expand access to environmental data in Chicago: NASA grant provides funding for research, expansion of ChiVes database", [The DePaulia](https://depauliaonline.com/64087/special-issues/research-team-seeks-to-expand-access-to-environmental-data-in-chicago-nasa-grant-provides-funding-for-research-expansion-of-chives-database/), April 24, 2023.
 
 ## Global Urban Structure 
 This research project employs satellite imagery and other spatial data sources to examine the distribution of built and green spaces in cities. We explored the change in the urban built footprint of 150 cities in the United States, India, and China between 1995-2015 and found that as cities grow, they often increase in complexity and compactness contributing to stronger daytime surface urban heat island intensities.<sup>1</sup> This research also evaluated whether the global cities in our analysis show similar growth patterns (i.e., homogenization) which could correspond with similar urban heat island consequences as cities grow.
