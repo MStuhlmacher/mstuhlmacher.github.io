@@ -22,6 +22,7 @@ __Global Urban Form__ research project employs satellite imagery and other spati
 
 ## Upcoming Conferences
 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html), 10th Anniversary. September 24-29, 2023. Heidelberg, Germany.
+
 [Geo For Good](https://earthoutreachonair.withgoogle.com/events/geoforgood23), October 10-12, 2023. Mountain View, California.
 
 ## 
