@@ -22,7 +22,7 @@ Core to my green space research is working with local communities to guide resea
 1. Curran, W., Stuhlmacher, M., and Anderson, E. (In Press). “Getting to Just Green Enough in Pilsen, Chicago”. Interdisciplinary Journal of Landscape Architecture (LA+).
 
 ### External Grants:
-2. NASA, Equity and Environmental Justice: Earth Science Applications (2022-2024). PI: Michelle Stuhlmacher, co-Is: Winifred Curran and Marynia Kolak. Grant Number: 80NSSC22K1676, Title: "Designing for Just Green Enough: A Data Integration Tool for Informing Community Green Space Planning", Award: $250,000.
+2. NASA, Equity and Environmental Justice (2022-2024). PI: Michelle Stuhlmacher, co-Is: Winifred Curran and Marynia Kolak. Grant Number: 80NSSC22K1676, Title: "Designing for Just Green Enough: A Data Integration Tool for Informing Community Green Space Planning", Award: $250,000.
 
 ### Media Coverage:
 3. "DePaul Researchers Creating Chicago Neighborhood Database of Environmental Disparities", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/nasa-grant-2022.aspx), Sep 16, 2022.
