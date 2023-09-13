@@ -26,4 +26,4 @@ __Global Urban Form__ research project employs satellite imagery and other spati
 [Geo For Good](https://earthoutreachonair.withgoogle.com/events/geoforgood23), October 10-12, 2023. Mountain View, California.
 
 ## 
-*Webpage last updated: 2023/07/28*
+*Webpage last updated: 2023/09/13*
