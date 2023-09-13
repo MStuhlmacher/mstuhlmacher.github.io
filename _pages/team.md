@@ -9,6 +9,8 @@ Research, teaching, and learning happens through collaboration large and small. 
 ## Current and past student research collaborators 
 | Name                   | Year        | Position/Funding                           |
 |:-----------------------|:------------|:-------------------------------------------|
+| Dajoin Williams        | 2023-2024   | NASA Equity and Environmental Justice RA   |
+| Chris Impellizeri      | 2023-2024   | NASA Equity and Environmental Justice RA   |
 | Erin Koster            | 2023        | Summer Undergraduate Research Grant (SURG) |
 | Joshua Woods           | 2022-2023   | Sustainable Urban Development Graduate RA  |
 | Kayleigh Zinter        | 2021-2023   | Community Psychology PhD Student           |
