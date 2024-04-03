@@ -10,7 +10,7 @@ I'm also part of an interdisciplinary project investigating the impact of public
 
 ### Articles:
 1.	Stuhlmacher, M., Kim, Y. and Kim, J.E. (2022) “The Role of Green Space in Chicago’s Gentrification.” Urban Forestry & Urban Greening 71. [https://doi.org/10.1016/j.ufug.2022.127569](https://doi.org/10.1016/j.ufug.2022.127569).
-2.	Kim, J., Kim, Y., and Stuhlmacher, M. (Under Review). "The Green Space Dilemma: Pathways to Greening with and Without Gentrification". Preprint Available: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4355130](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4355130)
+2.	Kim, J., Kim, Y., and Stuhlmacher, M. (2024). "The Green Space Dilemma: Pathways to Greening with and Without Gentrification". Journal of Urban Affairs. 1-22. [https://doi.org/10.1080/07352166.2024.2326489](https://doi.org/10.1080/07352166.2024.2326489).
 
 ### External Grants:
 3. NSF, Strengthening American Infrastructure (2023-2026). PI: Kimberly Quinn, co-PIs: Michelle Stuhlmacher, Sophie Trawalter, Kim Meidenbauer, and Leidy Klotz. Grant Number: 2324642, Title: "SAI: Healthy and Equitable Public Spaces", Award: $750,000.
@@ -23,7 +23,7 @@ I'm also part of an interdisciplinary project investigating the impact of public
 My green space research is shaped by community collaborations that inform research design and prioritizes data sharing. In 2022, we received a grant from NASA to expand on a previous service-learning partnership with Pilsen.<sup>2</sup> With this funding, we have build an interactive, open-source dashboard ([ChiVes](https://chichives.com/)) for social and environmental data. The goal of the project is to make the data easier for the alderman and community members to access and use for green space decision making in Pilsen and around Chicago.<sup>3,4</sup>
 
 ### Articles:
-1. Curran, W., Stuhlmacher, M., and Anderson, E. (2023). “Getting to Just Green Enough”. Landscape Architecture Plus (LA+): Interdisciplinary Journal of Landscape Architecture.
+1. Curran, W., Stuhlmacher, M., and Anderson, E. (2023). “Getting to Just Green Enough”. Landscape Architecture Plus (LA+): Interdisciplinary Journal of Landscape Architecture. [https://laplusjournal.com/18-BEAUTY](https://laplusjournal.com/18-BEAUTY).
 
 ### External Grants:
 2. NASA, Equity and Environmental Justice (2022-2024). PI: Michelle Stuhlmacher, co-Is: Winifred Curran and Marynia Kolak. Grant Number: 80NSSC22K1676, Title: "Designing for Just Green Enough: A Data Integration Tool for Informing Community Green Space Planning", Award: $250,000.
