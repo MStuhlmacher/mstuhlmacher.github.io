@@ -15,7 +15,7 @@ My main research area examines the distribution of urban green space and resulti
 ### External Grants:
 3. NSF, Strengthening American Infrastructure (2023-2026). PI: Kimberly Quinn, co-PIs: Michelle Stuhlmacher, Sophie Trawalter, Kim Meidenbauer, and Leidy Klotz. Grant Number: 2324642, Title: "SAI: Healthy and Equitable Public Spaces", Award: $750,000.
 ### Media Coverage:
-4. "How do pubic spaces make you feel? DePaul University measuring equity by tracking how people respond to urban design", [Chicago Tribune](https://www.chicagotribune.com/people/ct-depaul-university-public-spaces-1130-20231208-iovtwd23gjhbxj32zejdhr4c2q-story.html), Dec 8.
+4. "How do pubic spaces make you feel? DePaul University measuring equity by tracking how people respond to urban design", [Chicago Tribune](https://www.chicagotribune.com/people/ct-depaul-university-public-spaces-1130-20231208-iovtwd23gjhbxj32zejdhr4c2q-story.html), Dec 8, 2023.
 5. "Mapping Emotions: Researchers to Track Psychology, Equity of Public Spaces", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/equitable-public-spaces.aspx), Nov 13, 2023.
 
 ## Green Gentrification
@@ -26,7 +26,7 @@ My green gentrification research complements the urban green space equity resear
 ### Articles:
 1.	Rigolon, A., Collins, T., Kim, J., Stuhlmacher, M., and Christensen, J., (2024). “Does gentrification precede and follow greening? Evidence about the green gentrification cycle in Los Angeles and Chicago”. Landscape and Urban Planning. [https://doi.org/10.1016/j.landurbplan.2024.105095](https://doi.org/10.1016/j.landurbplan.2024.105095)
 2.	Stuhlmacher, M., Kim, Y. and Kim, J.E. (2022) “The Role of Green Space in Chicago’s Gentrification.” Urban Forestry & Urban Greening 71. [https://doi.org/10.1016/j.ufug.2022.127569](https://doi.org/10.1016/j.ufug.2022.127569)
-3.	Kim, J., Kim, Y., and Stuhlmacher, M., 2024. “The Green Space Dilemma: Pathways to Greening with and without Gentrification”. Journal of Urban Affairs. [https://doi.org/10.1080/07352166.2024.2326489](https://doi.org/10.1080/07352166.2024.2326489)
+3.	Kim, J., Kim, Y., and Stuhlmacher, M., (2024). “The Green Space Dilemma: Pathways to Greening with and without Gentrification”. Journal of Urban Affairs. [https://doi.org/10.1080/07352166.2024.2326489](https://doi.org/10.1080/07352166.2024.2326489)
 
 
 ## Community-Engaged Environmental Justice & Data Access
