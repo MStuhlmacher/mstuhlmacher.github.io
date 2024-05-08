@@ -38,7 +38,7 @@ This project aims to put environmental data from satellites in the hands of comm
 2. Curran, W., Stuhlmacher, M., and Anderson, E. (2023). “Getting to Just Green Enough”. Landscape Architecture Plus (LA+): Interdisciplinary Journal of Landscape Architecture. [https://laplusjournal.com/18-BEAUTY](https://laplusjournal.com/18-BEAUTY).
 ### Presentations:
 3. Stuhlmacher, M., Impellizeri, C., Williams, D., Alavez, J., Curran, W., and Kolak, M. “Designing for Just Green Enough: A Data Dashboard for Community Green Space Planning”. American Association of Geographers, Honolulu, HI. April 16th, 2024.
-4. Williams, D., Curran, W., Stuhlmacher, M., Alavez, J., Kolak, M. and Impellizeri, C.* "Data is great, but... Co-producing knowledge for environmental justice", American Association of Geographers, Honolulu, HI. April 18th, 2024.
+4. Williams, D., Curran, W., Stuhlmacher, M., Alavez, J., Kolak, M. and Impellizeri, C. "Data is great, but... Co-producing knowledge for environmental justice", American Association of Geographers, Honolulu, HI. April 18th, 2024.
 ### Media Coverage:
 5. "DePaul Researchers Creating Chicago Neighborhood Database of Environmental Disparities", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/nasa-grant-2022.aspx), Sep 16, 2022.
 6. "Research team seeks to expand access to environmental data in Chicago: NASA grant provides funding for research, expansion of ChiVes database", [The DePaulia](https://depauliaonline.com/64087/special-issues/research-team-seeks-to-expand-access-to-environmental-data-in-chicago-nasa-grant-provides-funding-for-research-expansion-of-chives-database/), April 24, 2023.
