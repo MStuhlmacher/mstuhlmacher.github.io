@@ -7,7 +7,7 @@ author_profile: true
 Research, teaching, and learning happens through collaboration large and small. I love bringing my research into my teaching and involving students in my research.
 
 ![NASA RAs](https://mstuhlmacher.github.io/files/IMG_0865_crop.jpg)
-<sub> *NASA research assistants Dajoin, Salise, Erin, and Chris (left to right) after a community workshop in Pilsen.* </sub>
+<sub> NASA research assistants Dajoin, Salise, Erin, and Chris (left to right) after a community workshop in Pilsen. </sub>
 
 ## Current and past student research collaborators 
 | Name                   | Year        | Position/Funding                           |
@@ -36,5 +36,5 @@ The URAP programs provides funding for faculty to hire undergraduate students to
 I also hire students to contribute to research projects funded by research grants. These positions vary, but are always posted on the GEO listserv. Keep an eye out there.
 
 <img align = "left" src="https://mstuhlmacher.github.io/files/DJI_20240610102436_0044_D_crop.JPG" width="500" />
-<sub> *Erin and Chris (NASA research assistants) getting set up for tabling at a community event. Drone piloting and photo by Chris Impellizeri.* </sub> 
+<sub> Erin and Chris (NASA research assistants) getting set up for tabling at a community event. Drone piloting and photo by Chris Impellizeri. </sub> 
 
