@@ -7,9 +7,9 @@ author_profile: true
 Research, teaching, and learning happens through collaboration large and small. I love bringing my research into my teaching and involving students in my research.
 
 ![NASA RAs](https://mstuhlmacher.github.io/files/IMG_0865_crop.jpg)
-<sub> NASA research assistants Dajoin, Salise, Erin, and Chris (left to right) after a community workshop in Pilsen. </sub>
+<sub> NASA Equity and Environmental Justice Research Assistants (Dajoin, Salise, Erin, and Chris), Dr. Stuhlmacher and Dr. Curran  after a community workshop in Pilsen. </sub>
 
-## Current and past student research collaborators 
+## Current and past student research assistant & collaborators 
 | Name                   | Year        | Position/Funding                           |
 |:-----------------------|:------------|:-------------------------------------------|
 | Salise Sepulveda       | 2024        | NASA Equity and Environmental Justice RA   |
@@ -35,6 +35,5 @@ The URAP programs provides funding for faculty to hire undergraduate students to
 ### 3. Grant-based Research Assistant Positions
 I also hire students to contribute to research projects funded by research grants. These positions vary, but are always posted on the GEO listserv. Keep an eye out there.
 
-<img align = "left" src="https://mstuhlmacher.github.io/files/DJI_20240610102436_0044_D_crop.JPG" width="500" />
-<sub> Erin and Chris (NASA research assistants) getting set up for tabling at a community event. Drone piloting and photo by Chris Impellizeri. </sub> 
-
+<img align = "left" src="https://mstuhlmacher.github.io/files/DJI_20240610102436_0044_D_crop.JPG" width="500" hspace="10" />
+<sub> Erin and Chris getting set up for tabling at a community event. Drone piloting and photo by Chris Impellizeri. </sub> 
