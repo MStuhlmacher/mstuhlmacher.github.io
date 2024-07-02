@@ -22,4 +22,4 @@ __Community-Engaged Environmental Justice & Data Access__. An important facet of
 
 
 ## 
-*Webpage last updated: 2024/05/10*
+*Webpage last updated: 2024/07/02*
