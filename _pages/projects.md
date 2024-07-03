@@ -3,6 +3,11 @@ permalink: /projects/
 title: "Ongoing Projects"
 author_profile: true
 ---
+#
+
+![Downtown](https://mstuhlmacher.github.io/files/DJI_20240530194909_0010_D_crop.JPG)
+<sub> *The downtown Chicago skyline from DePaul's Lincoln Park campus. Drone piloting and photo by Chris Impellizeri.* </sub>
+
 # Green Space Equity & Impacts
 My main research area examines the distribution of urban green space and resulting socio-ecological impacts. Projects and recent publications from this research include:
 * Examining the unequal distribution of park and tree canopy area and connectivity in ten U.S. cities. We found that green space inequality goes beyond the total amount of green space. Across the ten cities, White, wealthy, and highly educated neighborhoods had more connected green space.<sup>1</sup>
