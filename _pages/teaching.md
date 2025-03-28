@@ -22,7 +22,7 @@ Below are our partnerships and resulting reports to date. GEO 242 is the undergr
 | GEO 442, SQ 2024       | Friends of the Bloomingdale Trail | "Leaf Phenology of Serviceberry Trees Along the Bloomingdale Trail"  | Lizette Arroyo, Monika Miranda, and Orlando Solorzano |
 | GEO 442, SQ 2024       | Friends of the Bloomingdale Trail | "The Phenology of Serviceberry Blooms"  | Alex Laner, MaryAnn McGovern, and Sierra Pantlin |
 | GEO 442, SQ 2024       | Friends of the Bloomingdale Trail | "Digital Mapping of the Bloomingdale Trail for Phenology Volunteers"  | Caleb Haydock, Trevor Tibbetts and, Mani Ratna Sai Prabhu Teja Anem |
-| GEO 442, SQ 2023       | Naples Botanic Garden | "Pre-Exisiting Geographic and Social Conditions For Planned Reforestation"  | Ariel Wagner, Despina Kokoris, Jessica O’Connor, and Ola Klimczak |
+| GEO 442, SQ 2023       | Naples Botanic Garden | "Pre-Existing Geographic and Social Conditions For Planned Reforestation"  | Ariel Wagner, Despina Kokoris, Jessica O’Connor, and Ola Klimczak |
 | GEO 442, SQ 2023       | Naples Botanic Garden | "10,000 Tree Planting Initiative: Spatial Prioritization Plan"  | Taylor Swenski, Andrew P. Camilleri, and Kenneth Balcarcel |
 | GEO 442, WQ 2022       | Urban Collaborative Community Research Initiative | "Greening Without Gentrification: Strengthening Pilsen’s Urban Canopy" | Harrison Horst, Casey Lawler, Abby Mader, Jessica Walter, and Michael Wiencek  |
 | GEO 442, WQ 2022       | Urban Collaborative Community Research Initiative | "Analyzing Green Space in Chicago’s Lower West Side/Pilsen Neighborhood"  | Valeria Tarka, Chris Sandine, Evelyn Ryan, Kathryn Gillingham, and Caitlin Ailsworth  |
