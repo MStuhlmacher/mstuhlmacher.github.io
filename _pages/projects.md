@@ -11,9 +11,9 @@ author_profile: true
 # Green Space Equity & Impacts
 My main research area examines the distribution of urban green space and resulting socio-ecological impacts. Projects and recent publications from this research include:
 * Quantifying the distribution of tree canopy cover by land use. Looking at 10 U.S. cities, we found that multi-family neighborhoods had an average of 8.5% points less tree canopy than single-family with gaps as large as 18.6% (in Houston).<sup>1</sup>
-* Examining the unequal distribution of park and tree canopy area and connectivity in ten U.S. cities. We found that green space inequality goes beyond the total amount of green space. Across the ten cities, White, wealthy, and highly educated neighborhoods had more connected green space.<sup>2</sup>
+* Examining the unequal distribution of park and tree canopy area and connectivity in ten U.S. cities. We found that green space inequality goes beyond the total amount of green space. Across the ten cities, White, wealthy, and highly educated neighborhoods had more connected green space.<sup>2,5</sup>
 * Utilizing cell phone mobility data to examine local park access and the drivers behind park visitation. We found that, all else equal, wealthier communities visit local parks more frequently but the presence of water in a park increased local visits significantly for all nearby residents.<sup>3</sup>
-* A NSF-funded interdisciplinary project investigating the impact of public spaces on cognition, emotion, and well-being for urban residents of a variety of socio-economic and racial backgrounds.<sup>4,5,6</sup> If you would like to be involved with this project as a community partner or research participant, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScMNs8w5LM1QnEz6ZbgpYuCWujBv5TfWHvewqj-i67LsMBa4A/viewform?pli=1).
+* A NSF-funded interdisciplinary project investigating the impact of public spaces on cognition, emotion, and well-being for urban residents of a variety of socio-economic and racial backgrounds.<sup>4,6,7</sup> If you would like to be involved with this project as a community partner or research participant, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScMNs8w5LM1QnEz6ZbgpYuCWujBv5TfWHvewqj-i67LsMBa4A/viewform?pli=1).
 
 ### Articles:
 1. Stuhlmacher, M., Williams, D., Impellizeri, C., and Curran, W. (2025). “Bridging the land use gap: Examining tree canopy cover and connectivity by land use in 10 U.S. Cities”. Urban Forestry and Urban Greening. [https://doi.org/10.1016/j.ufug.2024.128626](https://doi.org/10.1016/j.ufug.2024.128626)
@@ -22,8 +22,9 @@ My main research area examines the distribution of urban green space and resulti
 ### External Grants:
 4. NSF, Strengthening American Infrastructure (2023-2026). PI: Kimberly Quinn, co-PIs: Sophie Trawalter, Kim Meidenbauer, Michelle Stuhlmacher, and Leidy Klotz. Grant Number: 2324642, Title: "SAI: Healthy and Equitable Public Spaces", Award: $750,000.
 ### Media Coverage:
-5. "How do pubic spaces make you feel? DePaul University measuring equity by tracking how people respond to urban design", [Chicago Tribune](https://www.chicagotribune.com/people/ct-depaul-university-public-spaces-1130-20231208-iovtwd23gjhbxj32zejdhr4c2q-story.html), Dec 8, 2023.
-6. "Mapping Emotions: Researchers to Track Psychology, Equity of Public Spaces", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/equitable-public-spaces.aspx), Nov 13, 2023.
+5. "Chicago’s Latino Neighborhoods Have Less Access to Parks, But Residents Are Working to Change That", [Block Club Chicago](https://blockclubchicago.org/2024/09/30/chicagos-latino-neighborhoods-have-less-access-to-parks-but-residents-are-working-to-change-that/), Sep 30, 2024.
+6. "How do pubic spaces make you feel? DePaul University measuring equity by tracking how people respond to urban design", [Chicago Tribune](https://www.chicagotribune.com/people/ct-depaul-university-public-spaces-1130-20231208-iovtwd23gjhbxj32zejdhr4c2q-story.html), Dec 8, 2023.
+7. "Mapping Emotions: Researchers to Track Psychology, Equity of Public Spaces", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/equitable-public-spaces.aspx), Nov 13, 2023.
 
 # Green Gentrification
 My research on green gentrification complements the urban green space equity research described above because an understanding of green gentrification is vital to improving green space equity in cities without displacement.<sup>4</sup> Projects and recent publications in this space include:
@@ -38,7 +39,7 @@ My research on green gentrification complements the urban green space equity res
 4. "Research Brief: Examining the nuances of green gentrification", [Newsline](https://resources.depaul.edu/newsline/sections/debuzz/Pages/green-gentrification.aspx). May 20, 2024
 
 # Community-Engaged Environmental Justice & Data Access
-This project aims to put environmental data from satellites in the hands of communities experiencing environmental injustice.<sup>1</sup>  In collaboration with the Health Regions and Policy Lab at UIUC and our community partners we have launched ([ChiVes](https://chichives.com/)), an interactive data visualization dashboard and worked with our community partners to 1) identify data to include, 2) improve dashboard usability, and 3) train the community on how to use the tool. Since launch, ChiVes has had 6,442 unique visits, we’ve tabled at three community events, and have held six workshops and focus groups. The grant closes in September 2024, but along the way we have been sharing results and lessons learned in publications and presentations.<sup>2,3,4</sup>
+This project aims to put environmental data from satellites in the hands of communities experiencing environmental injustice.<sup>1</sup>  In collaboration with the Health Regions and Policy Lab at UIUC and our community partners we have launched ([ChiVes](https://chichives.com/)), an interactive data visualization dashboard and worked with our community partners to 1) identify data to include, 2) improve dashboard usability, and 3) train the community on how to use the tool. Since launch, ChiVes has had 6,000+ unique visits, we’ve tabled at four community events, and have held seven workshops and focus groups. The grant closed in September 2024, but we are still working on sharing results and lessons learned in publications and presentations.<sup>2,3,4,7</sup>
 
 ### External Grants:
 1. NASA, Equity and Environmental Justice (2022-2024). PI: Michelle Stuhlmacher, co-Is: Winifred Curran and Marynia Kolak. Grant Number: 80NSSC22K1676, Title: "Designing for Just Green Enough: A Data Integration Tool for Informing Community Green Space Planning", Award: $250,000.
@@ -50,5 +51,6 @@ This project aims to put environmental data from satellites in the hands of comm
 ### Media Coverage:
 5. "DePaul Researchers Creating Chicago Neighborhood Database of Environmental Disparities", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/nasa-grant-2022.aspx), Sep 16, 2022.
 6. "Research team seeks to expand access to environmental data in Chicago: NASA grant provides funding for research, expansion of ChiVes database", [The DePaulia](https://depauliaonline.com/64087/special-issues/research-team-seeks-to-expand-access-to-environmental-data-in-chicago-nasa-grant-provides-funding-for-research-expansion-of-chives-database/), April 24, 2023.
+7. "SPARK Center debuts with environmental data-driven neighborhood project", [The DePaulia](https://depauliaonline.com/72016/news/campusnews/spark-center-debuts-with-data-driven-neighborhood-project/), Sep 30, 2024.
 
 
