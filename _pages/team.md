@@ -12,6 +12,7 @@ Research, teaching, and learning happens through collaboration large and small. 
 ## Current and past student research assistant & collaborators 
 | Name                   | Year        | Position/Funding                           |
 |:-----------------------|:------------|:-------------------------------------------|
+| Caitlin Ailsworth      | 2025        | Psychological Sciences PhD Student         |
 | Salise Sepulveda       | 2024        | NASA Equity and Environmental Justice RA   |
 | Dajoin Williams        | 2023-2024   | NASA Equity and Environmental Justice RA   |
 | Chris Impellizeri      | 2023-2024   | NASA Equity and Environmental Justice RA   |
