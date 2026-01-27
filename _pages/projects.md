@@ -27,8 +27,8 @@ My main research area examines the distribution of urban green space and resulti
 7. "Mapping Emotions: Researchers to Track Psychology, Equity of Public Spaces", [Newsline](https://resources.depaul.edu/newsline/sections/campus-and-community/Pages/equitable-public-spaces.aspx), Nov 13, 2023.
 
 # Green Gentrification
-Improving our understanding of green gentrification--the idea that green improvements contribute to gentrification--is vital to improving green space equity in cities without displacement.<sup>4</sup> Projects and recent publications in this space include:
-* A quantitative and qualitative assessment of the “green gentrification cycle” (the hypothesis that gentrification may both precede and follow greening). This team has recently published an article that utilizes hedonic models to examine how housing costs changed before and after new parks opened in Chicago and Los Angeles.<sup>1</sup>
+Improving our understanding of green gentrification, the idea that green improvements contribute to gentrification, is vital to improving green space equity in cities without displacement. Projects and recent publications in this space include:
+* A quantitative and qualitative assessment of the “green gentrification cycle” (the hypothesis that gentrification may both precede and follow greening). This team has recently published an article that utilizes hedonic models to examine how housing costs changed before and after new parks opened in Chicago and Los Angeles.<sup>1,4</sup>
 * Examinations of greening and gentrification pathways in Chicago.<sup>2</sup> In recent research, we examine where and under what conditions green investments do (and do not) led to gentrification. We found that a large new park alone was not linked to gentrification, but it was when located in areas with nearby gentrification and lacking both preexisting green space and government-assisted public housing. Additionally, a large new park in areas that already had adequate green space per resident did not spur gentrification, even if the area had a lower level of public housing.<sup>3</sup>
 
 ### Articles:
