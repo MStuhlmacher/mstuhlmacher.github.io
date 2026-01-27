@@ -16,10 +16,10 @@ I'm an Assistant Professor in the Department of Geography and GIS at DePaul Univ
 ## Ongoing Projects
 __Green Space Equity & Impacts__ projects examine the distribution of urban green space and resulting socio-ecological impacts. [Read more.](https://mstuhlmacher.github.io//projects/)
 
-__Green Gentrification__ research complements my urban green space equity research because an understanding of green gentrification is vital to improving green space equity in cities without displacement. [Read more.](https://mstuhlmacher.github.io//projects/)
+__Green Gentrification__ advancing understanding of green gentrification is vital to improving green space equity in cities without displacement. [Read more.](https://mstuhlmacher.github.io//projects/)
 
-__Community-Engaged Environmental Justice & Data Access__. An important facet of my research is working with the local community to shape my research and ensure public access to data and results. [Read more.](https://mstuhlmacher.github.io//projects/)
+__Community-Engaged Environmental Justice & Data Access__. work with local community to shapes my research and ensure public access to data and results. [Read more.](https://mstuhlmacher.github.io//projects/)
 
 
 ## 
-*Webpage last updated: 2025/03/28*
+*Webpage last updated: 2026/01/27*
