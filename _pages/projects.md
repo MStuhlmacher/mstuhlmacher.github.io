@@ -10,7 +10,7 @@ author_profile: true
 
 # Green Space Equity & Impacts
 My main research area examines the distribution of urban green space and resulting socio-ecological impacts. Projects and recent publications from this research include:
-* Quantifying how tree canopy cover varies by land use. We found that multi-family neighborhoods had an average of 8.5% points less tree canopy than single-family with gaps as large as 18.6% (in Houston).<sup>1</sup>
+* Quantifying how tree canopy cover varies by land use. We found that multi-family neighborhoods had an average of 8.5% points less tree canopy than single-family. The gaps between single-family and multip-family neighborhoods were as large as 18.6% (in Houston).<sup>1</sup>
 * Examining the unequal connectivity of park and tree canopy in ten U.S. cities. We found that green space inequality goes beyond the total amount of green space. Across the ten cities, White, wealthy, and highly educated neighborhoods had more connected green space.<sup>2,5</sup>
 * Utilizing cell phone mobility data to examine local park access and the drivers behind park visitation. We found that, all else equal, wealthier communities visit local parks more frequently but the presence of water in a park increased local visits significantly for all nearby residents.<sup>3</sup>
 * A NSF-funded project investigating the impact of public spaces on cognition, emotion, and well-being for urban residents of a variety of socio-economic and racial backgrounds.<sup>4,6,7</sup> If you would like to be involved with this project as a community partner or research participant, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScMNs8w5LM1QnEz6ZbgpYuCWujBv5TfWHvewqj-i67LsMBa4A/viewform?pli=1).
