@@ -8,12 +8,12 @@ author_profile: true
 ![Downtown](https://mstuhlmacher.github.io/files/DJI_20240530194909_0010_D_crop.JPG)
 <sub> *The downtown Chicago skyline from DePaul's Lincoln Park campus. Drone piloting and photo by Chris Impellizeri.* </sub>
 
-# Green Space Equity & Impacts
+# Urban Green Space Equity & Impacts
 My main research area examines the distribution of urban green space and resulting socio-ecological impacts. Projects and recent publications from this research include:
-* Quantifying how tree canopy cover varies by land use. We found that multi-family neighborhoods had an average of 8.5% points less tree canopy than single-family. The gaps between single-family and multip-family neighborhoods were as large as 18.6% (in Houston).<sup>1</sup>
-* Examining the unequal connectivity of park and tree canopy in ten U.S. cities. We found that green space inequality goes beyond the total amount of green space. Across the ten cities, White, wealthy, and highly educated neighborhoods had more connected green space.<sup>2,5</sup>
-* Utilizing cell phone mobility data to examine local park access and the drivers behind park visitation. We found that, all else equal, wealthier communities visit local parks more frequently but the presence of water in a park increased local visits significantly for all nearby residents.<sup>3</sup>
-* A NSF-funded project investigating the impact of public spaces on cognition, emotion, and well-being for urban residents of a variety of socio-economic and racial backgrounds.<sup>4,6,7</sup> If you would like to be involved with this project as a community partner or research participant, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScMNs8w5LM1QnEz6ZbgpYuCWujBv5TfWHvewqj-i67LsMBa4A/viewform?pli=1).
+* _Tree Canopy & Land Use._ Analyzing how tree cover varies by land use. Our findings show that multi-family neighborhoods have significantly less canopy than single-family areas, with gaps as large as 18.6% in cities like Houston.<sup>1</sup>
+* _Green Space Connectivity._ Examining the structural inequality of urban nature across ten U.S. cities. Research indicates that White, wealthy, and highly educated neighborhoods benefit from more connected green space networks.<sup>2,5</sup>
+* _Park Access & Mobility._ Utilizing cell phone data to identify what drives park visitation. While wealthier residents visit local parks more often, the presence of water features significantly increases visitation across all socio-economic groups.<sup>3</sup>
+* _Public Space & Wellbeing._ A NSF-funded project investigating the impact of public spaces on cognition, emotion, and well-being for urban residents of a variety of socio-economic and racial backgrounds.<sup>4,6,7</sup> If you would like to be involved with this project as a community partner or research participant, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScMNs8w5LM1QnEz6ZbgpYuCWujBv5TfWHvewqj-i67LsMBa4A/viewform?pli=1).
 
 ### Articles:
 1. Stuhlmacher, M., Williams, D., Impellizeri, C., and Curran, W. (2025). “Bridging the land use gap: Examining tree canopy cover and connectivity by land use in 10 U.S. Cities”. Urban Forestry and Urban Greening. [https://doi.org/10.1016/j.ufug.2024.128626](https://doi.org/10.1016/j.ufug.2024.128626)
