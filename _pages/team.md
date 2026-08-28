@@ -14,6 +14,7 @@ Research, teaching, and learning happens through collaboration large and small. 
 |:-------------------------|:------------|:-------------------------------------------|
 | Miguel Angel Vazquez III   | 2026        | WWF CONVEI Fellow                          |
 | Mia Killion                | 2026        | WWF CONVEI Fellow                          |
+| Rowan Foster               | 2026        | NSF Strengthening American Infrastructure RA         |
 | Mitchell Harrill-Wright    | 2026        | NSF Strengthening American Infrastructure RA         |
 | Caitlin Ailsworth          | 2025        | Psychological Sciences PhD Student         |
 | Salise Sepulveda       | 2024        | NASA Equity and Environmental Justice RA   |
