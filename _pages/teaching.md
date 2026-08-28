@@ -19,6 +19,14 @@ Below are our partnerships and resulting reports to date. GEO 242 is the undergr
 
 | Class, Term            | Community Partner                  | Report   | Report Authors  |
 |:-----------------------|:-----------------------------------|:---------|:----------------|
+| GEO 442, AQ 2025       | City of Chicago Department of Environment | "Tree Canopy Equity in Chicago: Integrating Drone Imagery, Spatial Data, and Community Stories"  | Ty Ferguson, Omar Sayeed Quadri, and Mohammed Mazin Khan |
+| GEO 442, AQ 2025       | Greater Chatham Initiative | "Understanding Urban Drainage and Tree Canopy Interactions in the Chatham Community"  | Sarah Kedas, Jennifer Berrun, and Armando Ponce |
+| GEO 442, AQ 2025       | Grow Greater Englewood | "Tree Equity and Environmental Conditions in Greater Englewood"  | Miguel Angel Vazquez III, Christina Carr, and Lavidrah Shumilah |
+| GEO 442, AQ 2025       | Imani Village | "Building Equity Through Trees with Imani Village"  | Gabriell Carpenter, Madison Scott, and Sarah Spanski |
+| GEO 442, AQ 2025       | Redline Extension TIF Coalition | "Growing Equity on Chicago’s Far South Side: Tree Canopy, Noise Pollution, and Transit Access"  | John Desmond, Izzy Reno, and Clare Schroeder |
+| GEO 442, AQ 2025       | Mi Villita | "Mi Villita: Tree Canopy and Urban Heat in Gage Park"  | Mia Killion, Adrienne Miller, Ian Wood |
+| GEO 442, AQ 2025       | Mi Villita | "Exploration of Urban Vegetation and Traffic Frequency in Chicago’s Little Village"  | Samira Kassem, Grear Palmer, and Carina Allen |
+| GEO 442, AQ 2025       | Mi Villita | "Tree Canopy Density and its Relationship with Urban Heat, Air Quality, and Land Use in Pilsen"  | Erica Newman, Jared Smith, Kate Shonk, and Krystal Munoz |
 | GEO 442, SQ 2024       | Friends of the Bloomingdale Trail | "Leaf Phenology of Serviceberry Trees Along the Bloomingdale Trail"  | Lizette Arroyo, Monika Miranda, and Orlando Solorzano |
 | GEO 442, SQ 2024       | Friends of the Bloomingdale Trail | "The Phenology of Serviceberry Blooms"  | Alex Laner, MaryAnn McGovern, and Sierra Pantlin |
 | GEO 442, SQ 2024       | Friends of the Bloomingdale Trail | "Digital Mapping of the Bloomingdale Trail for Phenology Volunteers"  | Caleb Haydock, Trevor Tibbetts and, Mani Ratna Sai Prabhu Teja Anem |
